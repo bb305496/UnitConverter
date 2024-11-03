@@ -1,0 +1,61 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/Bartek/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/Bartek/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/Bartek/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar;C:/Users/Bartek/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar'
+--module-path
+'C:/Users/Bartek/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar;C:/Users/Bartek/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar;C:/Users/Bartek/Desktop/Studia-all/Studia rok3/Semestr 5/JwIUM/Lab 2/UnitConverter/target/classes;C:/Users/Bartek/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar;C:/Users/Bartek/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-win.jar'
+--patch-module
+polsl='C:/Users/Bartek/Desktop/Studia-all/Studia rok3/Semestr 5/JwIUM/Lab 2/UnitConverter/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'C:/Users/Bartek/Desktop/Studia-all/Studia rok3/Semestr 5/JwIUM/Lab 2/UnitConverter/target/reports/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Bartek/Desktop/Studia-all/Studia rok3/Semestr 5/JwIUM/Lab 2/UnitConverter/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'UnitConverter 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Bartek/Desktop/Studia-all/Studia rok3/Semestr 5/JwIUM/Lab 2/UnitConverter/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'UnitConverter 1.0 API'
+Controller
+Exceptions
+Model
+polsl
+'C:/Users/Bartek/Desktop/Studia-all/Studia rok3/Semestr 5/JwIUM/Lab 2/UnitConverter/src/main/java/module-info.java'
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\allclasses-index.html = 1730549185806
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\allpackages-index.html = 1730549185808
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\copy.svg = 1730549185843
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\element-list = 1730549185712
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\help-doc.html = 1730549185837
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\index-all.html = 1730549185825
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\index.html = 1730549185828
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\javadoc.bat = 1730549121260
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\jquery-ui.overrides.css = 1730549185855
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\member-search-index.js = 1730549185813
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\module-search-index.js = 1730549185809
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\overview-tree.html = 1730549185795
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\package-search-index.js = 1730549185811
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\script.js = 1730549185841
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\search-page.js = 1730549185847
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\search.html = 1730549185827
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\search.js = 1730549185845
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\serialized-form.html = 1730549185753
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\stylesheet.css = 1730549185839
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\tag-search-index.js = 1730549185814
+C:\Users\Bartek\Desktop\Studia-all\Studia rok3\Semestr 5\JwIUM\Lab 2\UnitConverter\target\reports\apidocs\type-search-index.js = 1730549185812
